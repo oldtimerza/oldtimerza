@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello and welcome to my Github profile!
+
+Please make yourself at home. Whiskey?
+
+I am a software engineer with an interest in all things Java☕, Javascript✨( more Typescript these days) and C#🍵.
+
+Please take a moment to browse some of my wares...
+
+> 1) 🐿️[Meerkat](https://oldtimerza.github.io/meerkat-site/)
+> 2) [Blog](https://oldtimerza.github.io/)
