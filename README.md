@@ -24,4 +24,5 @@ I am a software engineer with an interest in all things Java☕, Javascript✨( 
 Please take a moment to browse some of my wares...
 
 > 1) 🐿️[Meerkat](https://oldtimerza.github.io/meerkat-site/)
-> 2) [Blog](https://oldtimerza.github.io/)
+> 2) 📝[Blog](https://oldtimerza.github.io/)
+> 3) 🔳[Terminal config](https://github.com/oldtimerza/windows-terminal-config)
