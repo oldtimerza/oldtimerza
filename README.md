@@ -27,3 +27,8 @@ Please take a moment to browse some of my wares...
 > 2) 📝[Blog](https://oldtimerza.github.io/)
 > 3) 🔳[Terminal config](https://github.com/oldtimerza/windows-terminal-config)
 > 4) 📷[Tiny renderer view](https://github.com/oldtimerza/TinyRendererView)
+
+
+<p align="center">
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=oldtimerza&show_icons=true">
+</p>
