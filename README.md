@@ -27,6 +27,7 @@ Please take a moment to browse some of my wares...
 > 2) 📝[Blog](https://oldtimerza.github.io/)
 > 3) 🔳[Terminal config](https://github.com/oldtimerza/windows-terminal-config)
 > 4) 📷[Tiny renderer view](https://github.com/oldtimerza/TinyRendererView)
+> 5) ✨[Mox Monoline](https://github.com/oldtimerza/mox-monoline)
 
 
 <p align="center">
